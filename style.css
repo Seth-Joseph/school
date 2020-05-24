@@ -1,0 +1,30 @@
+
+.lik {
+    background-color: #275593;
+    display: flex;
+    justify-content: space-around;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(17, 12, 11);
+
+}
+h2{
+    color: white;
+    background-color:rgb(17, 12, 11);
+    display: flex;
+    justify-content: center;
+}
+.main{
+     background-color:wheat;
+    display: flex;
+    justify-content: center;
+}
+.tex{
+  
+    display: flex;
+    justify-content: center;
+    
+
+}
